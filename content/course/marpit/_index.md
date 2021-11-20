@@ -1,8 +1,8 @@
 ---
-title: 📊 Learn Data Science
+title: 📊 MarpIT
 linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
-date: '2021-01-24'
+summary: Alternativ til PowerPoint
+date: '2021-11-20'
 type: book
 ---
 
