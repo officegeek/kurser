@@ -12,7 +12,7 @@ cta:
 widget_id: start
 headless: true
 weight: 10
-title: Online Course Template
+title: OfficeGeek
 cta_alt:
   ? url
   ? label
