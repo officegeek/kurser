@@ -1,8 +1,8 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
-date: '2021-01-24'
+title: 📊 MarpIt
+linkTitle: MarpIt
+summary: Alternativ til PowerPoint
+date: '2021-11-20'
 type: book
 ---
 
@@ -26,7 +26,7 @@ The demand for skilled data science practitioners is rapidly growing. Lorem ipsu
 
 ## Meet your instructor
 
-{{< mention "admin" >}}
+{{< mention "Tue Hellstern" >}}
 
 ## FAQs
 
