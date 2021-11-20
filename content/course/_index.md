@@ -1,5 +1,5 @@
 ---
-title: 📚 Courses
+title: 📚 Kurser
 type: page
 
 header:
@@ -7,4 +7,4 @@ header:
   image: ""
 ---
 
-Explore our courses below and expand your knowledge!
+Her finder du mine kurser!
