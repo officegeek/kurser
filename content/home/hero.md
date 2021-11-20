@@ -26,6 +26,4 @@ hero_media: student.svg
 ---
 <br>
 
-Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
-
-Introduce your courses here.
+Kurser der gør dig mere effektiv i dit arbejde
