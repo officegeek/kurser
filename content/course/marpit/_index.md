@@ -1,6 +1,6 @@
 ---
-title: 📊 MarpIT
-linkTitle: Data Science
+title: 📊 MarpIt
+linkTitle: MarpIt
 summary: Alternativ til PowerPoint
 date: '2021-11-20'
 type: book
